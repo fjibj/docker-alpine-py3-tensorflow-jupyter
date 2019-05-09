@@ -7,7 +7,7 @@ This provides a Docker image with
 - Python3
 - TensolFlow
 - Juptyer
-## - OpenCV
+- OpenCV   （新增）
 
 This is heavily inspired by https://hub.docker.com/r/enakai00/jupyter_tensorflow/
 Docker image.
