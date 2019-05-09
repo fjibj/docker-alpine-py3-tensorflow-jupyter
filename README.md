@@ -1,4 +1,4 @@
-Docker image with alpine + Python3 + TensolFlow + Jupyter
+Docker image with alpine + Python3 + TensolFlow + Jupyter + OpenCV
 =========================================================
 
 This provides a Docker image with
@@ -7,6 +7,7 @@ This provides a Docker image with
 - Python3
 - TensolFlow
 - Juptyer
+## - OpenCV
 
 This is heavily inspired by https://hub.docker.com/r/enakai00/jupyter_tensorflow/
 Docker image.
