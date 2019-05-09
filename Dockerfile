@@ -77,6 +77,7 @@ RUN apk add --no-cache --virtual=.build-deps \
     && pip3 install --no-cache-dir pandas scipy jupyter \
     && pip3 install --no-cache-dir scikit-learn matplotlib Pillow \
     && pip3 install --no-cache-dir google-api-python-client \
+    && pip3 install --no-cache-dir opencv-python \
     && : \
     && : clean up unneeded packages and files \
     && apk del .build-deps \
